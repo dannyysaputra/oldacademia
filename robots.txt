@@ -1,4 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Dissalow: 
-Sitemap: https://oldacademia.vercel.app/sitemap.xml
+https://oldacademia.vercel.app/sitemap.xml
