@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Disallow:
+Disallow: /sitemap_new.xml
 
 Sitemap: https://oldacademia.vercel.app/sitemap.xml
